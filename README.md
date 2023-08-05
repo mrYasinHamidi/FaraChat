@@ -1,6 +1,6 @@
 # FaraChat
 FaraChat appclication intro page      
-Developed with flutter framework
+Developed with flutter framework   
 Because of the confidentiality of the project, I am excused from uploading the APK and the source code.
 
 An organizational chat app with ability to 
