@@ -1,6 +1,8 @@
 # FaraChat
 FaraChat appclication intro page
 
+Because of the confidentiality of the project, I am excused from uploading the APK and the source code.
+
 
 <p float="left">
   <img src="./screenshots/img_1.jpg" width="30%" />
